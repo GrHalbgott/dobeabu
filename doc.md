@@ -11,13 +11,13 @@ Idee:
 Umsetzung:
 
 - Erstellen einer Szenerie:
-```
+```java
 hatBoden = new GLBoden("boden.jpg");
 hatHimmel = new GLHimmel("sky.jpg");
 hatLichtquelle = new GLLicht(5000,5000,5000);
 ```
 - Einstellung der Kamera:
-```
+```java
 hatKamera = new GLKamera();
 hatKamera.setzePosition(2000,500,2000);
 ```
