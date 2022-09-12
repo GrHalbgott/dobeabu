@@ -71,9 +71,8 @@ B = false;
   - Erstellung der Figur C (Ball)
   - Setzte Figur C als 'aktiv'
 
-## Handhabung
+## Steuerung
 - Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)
-- Steuerung :
 - Pfeiltasten → Kamerasteuerung x-Achse, y-Achse
 - /,* → Kamerasteuerung Links, Rechts
 - +,- → Kamera vor, zurück
