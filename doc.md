@@ -31,7 +31,7 @@ if (hatTastatur.istGedrueckt('/') == true&&hatAuge!= null)
 }
 ```
 
-- Beispiel für Tastenzuordnung zur Steuerung der Kamera (+ Überprüfung, ob später erstelltes „Auge" ungleich 0 ist: wenn = 0, dann wird diese Methode nicht ausgeführt; wenn != 0, dann wird diese Methode ausgeführt → das Auge dreht sich mit der Kamera)
+> Beispiel für Tastenzuordnung zur Steuerung der Kamera (+ Überprüfung, ob später erstelltes „Auge" ungleich 0 ist: wenn = 0, dann wird diese Methode nicht ausgeführt; wenn != 0, dann wird diese Methode ausgeführt → das Auge dreht sich mit der Kamera)
 ```java
 if(hatTastatur.istGedrueckt('s') == true&&C== true&&B== false&&D== false)
 {
@@ -40,7 +40,7 @@ if(hatTastatur.istGedrueckt('s') == true&&C== true&&B== false&&D== false)
 }
 ```
 
-- Beispiel für Tastenzuordnung zur Steuerung der Figur (+ Überprüfung, ob andere Figuren gleich 0 sind, da nur eine Figur angezeigt + gesteuert werden soll)
+> Beispiel für Tastenzuordnung zur Steuerung der Figur (+ Überprüfung, ob andere Figuren gleich 0 sind, da nur eine Figur angezeigt + gesteuert werden soll)
 - Figurenauswahl:
 ```java
 if(hatTastatur.istGedrueckt('3') == true&&B== true)
