@@ -1,4 +1,4 @@
-# Dokumentation zu „Dobeabu"
+# Dokumentation zu Dobeabu
 Niko Kolaxidis und zwei andere
 
 ## Idee
