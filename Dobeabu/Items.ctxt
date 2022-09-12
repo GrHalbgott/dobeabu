@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=n\ zufgen\ max
+comment1.target=void\ random1(int,\ java.util.Random,\ int)
+comment1.text=\ public\ Items()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ hatKugeln\ \=\ new\ GLKugel(,\ Random\ zufgen,\ Random\ zufgen,\ 3);\r\n\ \ \ \ \ \ \ \ hatQuader\ \=\ new\ GLQuader();\r\n\ \ \ \ \ \ \ \ hatTori\ \=\ new\ GLTori();\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ Random\ random1\ \=\ new\ Random();\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ randomNumber\=(int)(Math.random()*100);\ \r\n\ \ \ \ \ \ \ \ int\ number\=(int)(Math.random()*5+10);\ \r\n}
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dobeabu
+comment0.text=\r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=
+comment1.target=Dobeabu()
+comment2.params=
+comment2.target=void\ bearbeiteTastendruckKamera()
+comment3.params=
+comment3.target=void\ bearbeiteTastendruckBewegung()
+comment4.params=
+comment4.target=void\ bearbeiteTastendruckExtras()
+numComments=5
