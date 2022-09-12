@@ -1,6 +1,6 @@
  Der DoBeaBu
  -----------------
- Autoren: Niko Kolaxidis, Julius Heidrich, Jonas Struck
+ Autoren: Niko Kolaxidis & zwei andere
 
  
  TO DO:
