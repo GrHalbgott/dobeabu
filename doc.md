@@ -1,14 +1,13 @@
-**Dokumentation zu „Dobeabu"**
-
+# Dokumentation zu „Dobeabu"
 Niko Kolaxidis und zwei andere
 
-Idee:
+## Idee
 
 - Figurenauswahl ermöglichen (mehrere Figuren auswählen)
 - Freie Steuerung einer Figur
 - Freie Steuerung der Kamera
 
-Umsetzung:
+## Umsetzung
 
 - Erstellen einer Szenerie:
 ```java
@@ -16,11 +15,13 @@ hatBoden = new GLBoden("boden.jpg");
 hatHimmel = new GLHimmel("sky.jpg");
 hatLichtquelle = new GLLicht(5000,5000,5000);
 ```
+
 - Einstellung der Kamera:
 ```java
 hatKamera = new GLKamera();
 hatKamera.setzePosition(2000,500,2000);
 ```
+
 - Steuerungen:
 ```java
 if (hatTastatur.istGedrueckt('/') == true&&hatAuge!= null)
@@ -29,6 +30,7 @@ if (hatTastatur.istGedrueckt('/') == true&&hatAuge!= null)
     hatAuge.rotiere(359.8, 0,1,0, 0.1,150,0.1);
 }
 ```
+
 - Beispiel für Tastenzuordnung zur Steuerung der Kamera (+ Überprüfung, ob später erstelltes „Auge" ungleich 0 ist: wenn = 0, dann wird diese Methode nicht ausgeführt; wenn != 0, dann wird diese Methode ausgeführt → das Auge dreht sich mit der Kamera)
 ```java
 if(hatTastatur.istGedrueckt('s') == true&&C== true&&B== false&&D== false)
@@ -37,6 +39,7 @@ if(hatTastatur.istGedrueckt('s') == true&&C== true&&B== false&&D== false)
     Sys.warte();
 }
 ```
+
 - Beispiel für Tastenzuordnung zur Steuerung der Figur (+ Überprüfung, ob andere Figuren gleich 0 sind, da nur eine Figur angezeigt + gesteuert werden soll)
 - Figurenauswahl:
 ```java
@@ -58,6 +61,7 @@ B = false;
   }
 }
 ```
+
 - Beispiel einer Figurenauswahl:
   - Überprüfung, ob Taste '3' gedrückt wird
   - Überprüfung, ob Figur B aktiv ist
@@ -67,7 +71,7 @@ B = false;
   - Erstellung der Figur C (Ball)
   - Setzte Figur C als 'aktiv'
 
-Handhabung:
+## Handhabung
 - Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)
 - Steuerung :
 - Pfeiltasten → Kamerasteuerung x-Achse, y-Achse
