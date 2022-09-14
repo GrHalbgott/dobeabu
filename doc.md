@@ -71,7 +71,25 @@ B = false;
   - Setzte Figur C als 'aktiv'
 
 ## Steuerung
-- Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)
+| Taste | Funktion    |
+|-------|-------------|
+| Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels) |
+| Kamerasteuerung |
+| Pfeiltasten | Kamerasteuerung x-/y-Achse |
+| /, * | links/rechts |
+| +, - | näher/weiter weg |
+| u    | zurücksetzen |
+| Figurensteuerung |
+| w, a, s, d | vorne, zurück, links, rechts |
+| q, e | Drehung x-Achse |
+| y, c | Drehung y-Achse |
+| r, f | aufwärts, abwärts |
+| o    | Zurück zum Ursprung |
+| 1 - 3 | Figurenwechsel (Sauron's Auge=1, Dobeabu=2, Ball=3) |
+| Zusätzliches |
+| m    | 3D-Modus ein/aus |
+| p    | Programm beenden |
+
 - Pfeiltasten → Kamerasteuerung x-Achse, y-Achse
 - /,* → Kamerasteuerung Links, Rechts
 - +,- → Kamera vor, zurück
@@ -82,5 +100,5 @@ B = false;
 - r,f → Figur hoch, runter
 - y,c → Drehung der Figur y-Achse
 - o   → Figur auf den Ursprung zurücksetzen
-- 1-3 → Figurenwechsel (Saurons Auge=1, Dobeabu=2, Ball=3)
+- 1-3 → Figurenwechsel 
 - p → Programm beenden
