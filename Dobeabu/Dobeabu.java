@@ -1,8 +1,6 @@
 import GLOOP.*;
-/**
- * @author 
- * @version 
- */
+
+
 public class Dobeabu
 {
     private GLKamera hatKamera;
