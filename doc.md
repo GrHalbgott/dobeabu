@@ -75,7 +75,7 @@ B = false;
 |-------|-------------|
 | **Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)** |
 | **Kamerasteuerung** |
-| Pfeiltasten | Kamerasteuerung x-/y-Achse |
+| Pfeiltasten | Drehung x-/y-Achse |
 | /, * | links/rechts |
 | +, - | näher/weiter weg |
 | u    | zurücksetzen |
@@ -86,6 +86,6 @@ B = false;
 | r, f | aufwärts, abwärts |
 | o    | Zurück zum Ursprung |
 | 1 - 3 | Figurenwechsel (Sauron's Auge=1, Dobeabu=2, Ball=3) |
-| *Zusätzliches** |
+| **Zusätzliches** |
 | m    | 3D-Modus ein/aus |
 | p    | Programm beenden |
