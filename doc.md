@@ -61,14 +61,14 @@ B = false;
 }
 ```
 
-- Beispiel einer Figurenauswahl:
-  - Überprüfung, ob Taste '3' gedrückt wird
-  - Überprüfung, ob Figur B aktiv ist
-  - Figur B wird gelöscht (Torus, TorusKaese + TorusMeat)
-  - Figur B wird als 'inaktiv' gesetzt
-  - Überprüfung, ob Figur C 'inaktiv'
-  - Erstellung der Figur C (Ball)
-  - Setzte Figur C als 'aktiv'
+> Beispiel einer Figurenauswahl:
+>  - Überprüfung, ob Taste '3' gedrückt wird
+>  - Überprüfung, ob Figur B aktiv ist
+>  - Figur B wird gelöscht (Torus, TorusKaese + TorusMeat)
+>  - Figur B wird als 'inaktiv' gesetzt
+>  - Überprüfung, ob Figur C 'inaktiv'
+>  - Erstellung der Figur C (Ball)
+>  - Setzte Figur C als 'aktiv'
 
 ## Steuerung
 | Taste | Funktion    |
