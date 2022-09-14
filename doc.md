@@ -71,9 +71,10 @@ B = false;
 >  - Setzte Figur C als 'aktiv'
 
 ## Steuerung
+*Hinweis: Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)*
+
 | Taste | Funktion    |
 |-------|-------------|
-| **Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)** |
 | **Kamerasteuerung** |
 | Pfeiltasten | Drehung x-/y-Achse |
 | /, * | links/rechts |
