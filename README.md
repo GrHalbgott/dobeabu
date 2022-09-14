@@ -17,6 +17,9 @@ Benötigt werden:
 ## Ausführen des Programms
 
 Durch Erstellen einer neuen Instanz "Dobeabu" öffnet sich ein neues Fenster und der Dobeabu ist sofort einsatzbereit. 
+Die Fehlermeldungen in der Zwischenzeit können ignoriert werden.
+
+[Screenshot](Screenshot.png)
 
 ### Steuerung:
 
