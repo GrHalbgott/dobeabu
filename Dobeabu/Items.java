@@ -1,9 +1,7 @@
 import GLOOP.*;
 import java.util.*;
-/**
- * @author 
- * @version 
- */
+
+
 public class Items
 {
     // Bezugsobjekte
