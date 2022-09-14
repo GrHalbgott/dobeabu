@@ -3,7 +3,7 @@
 Ein simples "Game", in dem ein Donut-Bagel-Burger mit einer Vielzahl an Tasten gesteuert werden kann.
 Es handelt sich hierbei um ein ehemaliges Schulprojekt im Informatikunterricht. Was uns auf die Idee gebracht hatte kann ich heute wirklich nicht mehr sagen...
 
-Funktionsweise, Hilfe & Steuerung in der [Dokumentation](doc.md).
+Funktionsweise & Hilfe sind zu finden in der [Dokumentation](doc.md).
 
 ## Installation
 
