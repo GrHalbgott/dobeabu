@@ -69,24 +69,3 @@ B = false;
 >  - Überprüfung, ob Figur C 'inaktiv'
 >  - Erstellung der Figur C (Ball)
 >  - Setzte Figur C als 'aktiv'
-
-## Steuerung
-*Hinweis: Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)*
-
-| Taste | Funktion    |
-|-------|-------------|
-| **Kamerasteuerung** |
-| Pfeiltasten | Drehung x-/y-Achse |
-| /, * | links/rechts |
-| +, - | näher/weiter weg |
-| u    | zurücksetzen |
-| **Figurensteuerung** |
-| w, a, s, d | vorne, zurück, links, rechts |
-| q, e | Drehung x-Achse |
-| y, c | Drehung y-Achse |
-| r, f | aufwärts, abwärts |
-| o    | Zurück zum Ursprung |
-| 1 - 3 | Figurenwechsel (Sauron's Auge=1, Dobeabu=2, Ball=3) |
-| **Zusätzliches** |
-| m    | 3D-Modus ein/aus |
-| p    | Programm beenden |
