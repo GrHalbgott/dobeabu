@@ -23,7 +23,7 @@ Die Fehlermeldungen in der Zwischenzeit können ignoriert werden.
 
 ### Steuerung:
 
-*Hinweis: Rote Linie: Dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)*
+*Hinweis: die rote Linie dient zur Orientierung (X-Achse, Ursprung in der Mitte des Kegels)*
 
 | Taste | Funktion    |
 |-------|-------------|
